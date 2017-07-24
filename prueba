@@ -1,0 +1,8 @@
+
+.inlineLeft, .inlineRight {
+    display: inline;
+}
+
+.inlineLeft {
+    align left;  
+}
